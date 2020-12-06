@@ -1,0 +1,11 @@
+D:\un\Чисельні методи\лр4\lr4_Lagrange_Spline\bin\Debug\netcoreapp2.1\lr4_Lagrange_Spline.deps.json
+D:\un\Чисельні методи\лр4\lr4_Lagrange_Spline\bin\Debug\netcoreapp2.1\lr4_Lagrange_Spline.runtimeconfig.json
+D:\un\Чисельні методи\лр4\lr4_Lagrange_Spline\bin\Debug\netcoreapp2.1\lr4_Lagrange_Spline.runtimeconfig.dev.json
+D:\un\Чисельні методи\лр4\lr4_Lagrange_Spline\bin\Debug\netcoreapp2.1\lr4_Lagrange_Spline.dll
+D:\un\Чисельні методи\лр4\lr4_Lagrange_Spline\bin\Debug\netcoreapp2.1\lr4_Lagrange_Spline.pdb
+D:\un\Чисельні методи\лр4\lr4_Lagrange_Spline\obj\Debug\netcoreapp2.1\lr4_Lagrange_Spline.csprojAssemblyReference.cache
+D:\un\Чисельні методи\лр4\lr4_Lagrange_Spline\obj\Debug\netcoreapp2.1\lr4_Lagrange_Spline.csproj.CoreCompileInputs.cache
+D:\un\Чисельні методи\лр4\lr4_Lagrange_Spline\obj\Debug\netcoreapp2.1\lr4_Lagrange_Spline.AssemblyInfoInputs.cache
+D:\un\Чисельні методи\лр4\lr4_Lagrange_Spline\obj\Debug\netcoreapp2.1\lr4_Lagrange_Spline.AssemblyInfo.cs
+D:\un\Чисельні методи\лр4\lr4_Lagrange_Spline\obj\Debug\netcoreapp2.1\lr4_Lagrange_Spline.dll
+D:\un\Чисельні методи\лр4\lr4_Lagrange_Spline\obj\Debug\netcoreapp2.1\lr4_Lagrange_Spline.pdb
